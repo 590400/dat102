@@ -1,15 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-<<<<<<< HEAD
-	<name>dat102</name>
-	<comment></comment>
-	<projects>
-	</projects>
-	<buildSpec>
-	</buildSpec>
-	<natures>
-=======
-	<name>dat102v2018</name>
+	<name>DobbelKjedetListeU</name>
 	<comment></comment>
 	<projects>
 	</projects>
@@ -22,6 +13,5 @@
 	</buildSpec>
 	<natures>
 		<nature>org.eclipse.jdt.core.javanature</nature>
->>>>>>> branch 'master' of https://github.com/590400/dat102.git
 	</natures>
 </projectDescription>
